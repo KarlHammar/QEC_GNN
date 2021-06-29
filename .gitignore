@@ -2,3 +2,5 @@ notes
 TODO
 .vscode
 singul/gnn_singularity.sif
+log
+data/*
